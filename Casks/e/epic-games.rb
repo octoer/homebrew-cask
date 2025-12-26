@@ -1,6 +1,6 @@
 cask "epic-games" do
   version "19.0.0"
-  sha256 "8e5c6f30e3f1f5401397dbeed52b21965b1b845a70d820ee7da8db36805b97d7"
+  sha256 "58c8e6e2b48775e48814f3076345bdbb845026138b8e34a8affc7d36989122d8"
 
   url "https://epicgames-download1.akamaized.net/Builds/UnrealEngineLauncher/Installers/Mac/EpicInstaller-#{version}.dmg",
       verified: "epicgames-download1.akamaized.net/"
